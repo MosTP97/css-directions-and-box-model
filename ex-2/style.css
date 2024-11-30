@@ -1,1 +1,19 @@
 /* Start coding here */
+*{
+    box-sizing: border-box;
+}
+
+.box-1{
+    border: 16px solid lightgray;
+}
+
+.box-2{
+    border: 16px solid black;
+}
+
+.box-3{
+    border: 24px solid crimson;
+    background-color: khaki;
+    padding: 30px;
+    font-size: 72px;
+}
