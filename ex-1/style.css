@@ -7,14 +7,13 @@
     background-color: rgb(143, 182, 221);
     padding: 20px;
     font-size: 24px;
-    width: 100%;
 }
 
 .box{
     padding: 30px;
-    width: 100%;
     border: 2px solid darkslategray;
     background-color: lightblue;
+    width: 40%;
 }
 section{
     padding: 40px;
